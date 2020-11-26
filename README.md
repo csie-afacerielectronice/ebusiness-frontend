@@ -8,9 +8,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Docker Commands
 
+#### Local
+
 ``` docker-compose up -d dev ``` spins up a development container
 
+#### Tests
+
 ``` docker-compose up test ``` spins up a testing container
+
+#### Production
 
 ``` docker-compose up -d prod ``` spins up a production container
 
